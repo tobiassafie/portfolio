@@ -5,3 +5,5 @@
 I am a Physics, Economics, and Mathematics triple major at Drexel University in Philadelphia, PA and this is a curated selection of my favorite work across **physics**, **machine learning**, and **quantitative finance**.
 
 ---
+
+## Featured Projects
