@@ -153,3 +153,22 @@ _A fun project I designed to help me learn poker and get a little more competiti
   </tr>
 </table>
 </div>
+
+### [**Quantitative Backtester Dashboard**](https://github.com/tobiassafie/quant-backtester)
+[**Link to the app**](quantbacktester.streamlit.app)
+<br>
+Developed an interactive framework for backtesting and visualizing quantitative trading strategies on historical market data. Built using **Streamlit**, the tool allows users to configure parameters, visualize trades, and compare multiple strategy performances in real time. May be recycled in the future to algorithmically trade **event contracts** using **Kalshi's API**.
+<br>
+_Built independently as a way to familiarize myself with algorithmic trading and ML methods in finance._
+**Tech:** Python, Pandas, NumPy, Matplotlib, Streamlit
+**Highlights:**
+- Modular architecture with five implemented strategies: SMA Crossover, EWMA Crossover, MACD, RSI–Bollinger, and ATR Breakout  
+- Integrated analytics for Sharpe Ratio, Sortino Ratio, CAGR, Profit Factor, and Max Drawdown  
+- Built interactive overlays for buy/sell markers and indicator signals  
+- Designed an extensible structure for adding new strategies and custom metrics  
+- Deployed interactive demo using Streamlit Cloud  
+
+<p align="center">
+  <img src="assets/MACD_QQQ_PERFORMANCE.png" width="600px" alt="MACD Strategy Performance vs Market"><br>
+  <em>Performance of the MACD trading strategy versus a buy-and-hold benchmark, showing cumulative growth, relative outperformance, and daily alpha.</em>
+</p>
