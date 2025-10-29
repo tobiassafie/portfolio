@@ -161,6 +161,7 @@ Developed an interactive framework for backtesting and visualizing quantitative 
 <br>
 _Built independently as a way to familiarize myself with algorithmic trading and ML methods in finance._
 **Tech:** Python, Pandas, NumPy, Matplotlib, Streamlit
+<br>
 **Highlights:**
 - Modular architecture with five implemented strategies: SMA Crossover, EWMA Crossover, MACD, RSI–Bollinger, and ATR Breakout  
 - Integrated analytics for Sharpe Ratio, Sortino Ratio, CAGR, Profit Factor, and Max Drawdown  
