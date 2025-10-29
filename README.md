@@ -108,7 +108,7 @@ _Conducted independently as an extension of a research paper I wrote for my univ
 **Tools**: Python, Pandas, GeoPandas, Folium, Plotly, Jupyter
 <br>
 **Highlights**:
-- Integrated datasets from the **HOLC Redlining Maps**, **ACS Census (2010–2020)**, and **Eviction Lab**
+- Integrated datasets from the **HOLC Redlining Maps**, **ACS Census**, and **Eviction Lab**
 - Computed tract-level changes in rent, household income, and racial composition
 - Built an interactive map overlay showing the correlation between historical red zones and modern eviction or rent-increase hotspots
 - Automated data cleaning and geospatial joins using **GeoPandas** and **Folium**
