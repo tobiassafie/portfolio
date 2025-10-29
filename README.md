@@ -75,7 +75,7 @@ Designing a real-time inference pipeline to detect and classify Fast Radio Burst
 <br>
 _Another project developed under Dr. Niharika Sravan that has seen many collaborators and contributors._
 <br>
-**Tools:** Python, C++, TensorFlow, Scikit-Learn, hls4ml, FPGA
+**Tools:** Python, TensorFlow, Verilog, C++, Scikit-Learn, hls4ml, FPGA
 <br>
 **Highlights:**
 - Building an end-to-end pipeline for FRB detection and classification using CNN architectures
