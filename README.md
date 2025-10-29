@@ -160,6 +160,7 @@ _A fun project I designed to help me learn poker and get a little more competiti
 Developed an interactive framework for backtesting and visualizing quantitative trading strategies on historical market data. Built using **Streamlit**, the tool allows users to configure parameters, visualize trades, and compare multiple strategy performances in real time. May be recycled in the future to algorithmically trade **event contracts** using **Kalshi's API**.
 <br>
 _Built independently as a way to familiarize myself with algorithmic trading and ML methods in finance._
+<br>
 **Tech:** Python, Pandas, NumPy, Matplotlib, Streamlit
 <br>
 **Highlights:**
