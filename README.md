@@ -87,12 +87,12 @@ _Another project developed under Dr. Niharika Sravan that has seen many collabor
 <table>
   <tr>
     <td align="center">
-      <img src="assets/frb_probability" width="800px" alt="ROC Curve – FRB vs RFI"><br>
+      <img src="assets/frb_probability.png" width="800px" alt="ROC Curve – FRB vs RFI"><br>
       <em>Live probability graphs with probability convergence metrics</em>
     </td>
     <td align="center">
-      <img src="assets/spectogram.png" width="400px" alt="FPGA Board"><br>
-      <em>Dedispersed spectogram of an FRB</em>
+      <img src="assets/spectrogram.png" width="400px" alt="FPGA Board"><br>
+      <em>Dedispersed spectrogram of an FRB</em>
     </td>
   </tr>
 </table>
