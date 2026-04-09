@@ -13,9 +13,9 @@ Each repository is linked in the **title** of each listed project.
 ### [**NASA Fermi GRB Clustering**](https://github.com/tahumada/GBM-ML)
 Developed ML pipelines for the **unsupervised clustering** of over 750k high-noise **gamma-ray bursts (GRBs)** to identify outlier astrophysical events detected by the Fermi Telescope. This is a sub-project under a wider multi-stage project created by my mentor, Dr. Niharika Sravan, to create an ML pipeline for NASA's radio team.
 <br>
-_This project was tackled in collaboration with Dr. Niharika Sravan, Dr. Tomas Ahumada, and others_
+_PI: Dr. Niharika Sravan - Funding: NSF2307374_
 <br><br>
-**Tools:** Python, PyTorch, Scikit-Learn, Pandas, DataWrangler, GoogleCloud, UMAP, t-SNE, PCA
+**Tools:** Python, TensorFlow, Scikit-Learn, Pandas, NumPy, Google Cloud Platform (GCP), AWS
 <br>
 **Highlights:**
 - Built high-dimensional autoencoder pipelines to extract latent features from raw GRB time series
