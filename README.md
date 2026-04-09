@@ -130,18 +130,18 @@ _Conducted independently as an extension of a research paper I wrote for my univ
 
 <br>
 
-### [**GTO Poker Strategy Simulator**](https://github.com/tobiassafie/gto-poker-sim) - _Work in Progress_
-Developing a Python-based game-theoretic poker simulator to model optimal mixed strategies under incomplete information. The project applies Monte Carlo simulation and reinforcement-learning methods similar to those used in quantitative finance and algorithmic trading.
+### [**GTO Poker Strategy Simulator**](https://github.com/tobiassafie/gto-poker-sim)
+Developed a Python-based game-theoretic poker simulator to model optimal mixed strategies under incomplete information. The project applies Monte Carlo simulation and reinforcement-learning methods.
 <br>
-_A fun project I designed to help me learn poker and get a little more competitive than just my college game night._
+_A fun project I designed to help me get a little better at poker. (I'm not sure how much it helped compared to actually practicing)._
 <br>
 **Tech:** Python, NumPy, Pandas, Matplotlib, Seaborn
 <br>
 **Highlights:**
-- Implementing hand-bucket abstraction and EV-based decision models  
-- Visualizing equilibrium heatmaps and exploitability metrics  
-- Experimenting with regret minimization and reinforcement-learning approaches (CFR)  
-- Planned extensions: real-time opponent modeling and adaptive counter-strategies
+- Implemented hand-bucket abstraction and EV-based decision models  
+- Visualized equilibrium heatmaps and exploitability metrics  
+- Experimented with regret minimization and reinforcement-learning approaches (CFR)  
+- Planned extensions (if I return to this project): real-time opponent modeling and adaptive counter-strategies
 
 <div align = "center">
 <table>
@@ -159,7 +159,7 @@ _A fun project I designed to help me learn poker and get a little more competiti
 <br>
 Developed an interactive framework for backtesting and visualizing quantitative trading strategies on historical market data. Built using **Streamlit**, the tool allows users to configure parameters, visualize trades, and compare multiple strategy performances in real time. May be recycled in the future to algorithmically trade **event contracts** using **Kalshi's API**.
 <br>
-_Built for fun as a way to familiarize myself with algorithmic trading and ML methods in finance._
+_Built for fun as a way to familiarize myself with algorithmic trading and practical ML methods._
 <br>
 **Tech:** Python, Pandas, NumPy, Matplotlib, Streamlit, YahooFinance
 <br>
