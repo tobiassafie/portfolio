@@ -1,5 +1,5 @@
 # Tobias Safie - Portfolio
-[toby.safie@gmail.com](mailto:toby.safie@gmail.com) | [tks57@drexel.edu](mailto:tks57@drexel.edu) | [linkedin.com/in/tsafie](linkedin.com/in/tsafie)
+[tobias.safie@gmail.com](mailto:tobias.safie@gmail.com) | [tks57@drexel.edu](mailto:tks57@drexel.edu) | [linkedin.com/in/tsafie](linkedin.com/in/tsafie)
 ---
 
 I am a Physics, Economics, and Mathematics triple major at Drexel University in Philadelphia, PA and this is a curated selection of my favorite work across **physics**, **machine learning**, and **quantitative finance**.
@@ -133,7 +133,7 @@ _Conducted independently as an extension of a research paper I wrote for my univ
 ### [**GTO Poker Strategy Simulator**](https://github.com/tobiassafie/gto-poker-sim) - _Work in Progress_
 Developing a Python-based game-theoretic poker simulator to model optimal mixed strategies under incomplete information. The project applies Monte Carlo simulation and reinforcement-learning methods similar to those used in quantitative finance and algorithmic trading.
 <br>
-_A fun project I designed to help me learn poker and get a little more competitive than just beating my college game night._
+_A fun project I designed to help me learn poker and get a little more competitive than just my college game night._
 <br>
 **Tech:** Python, NumPy, Pandas, Matplotlib, Seaborn
 <br>
@@ -159,7 +159,7 @@ _A fun project I designed to help me learn poker and get a little more competiti
 <br>
 Developed an interactive framework for backtesting and visualizing quantitative trading strategies on historical market data. Built using **Streamlit**, the tool allows users to configure parameters, visualize trades, and compare multiple strategy performances in real time. May be recycled in the future to algorithmically trade **event contracts** using **Kalshi's API**.
 <br>
-_Built independently as a way to familiarize myself with algorithmic trading and ML methods in finance._
+_Built for fun as a way to familiarize myself with algorithmic trading and ML methods in finance._
 <br>
 **Tech:** Python, Pandas, NumPy, Matplotlib, Streamlit, YahooFinance
 <br>
