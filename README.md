@@ -10,7 +10,7 @@ Each repository is linked in the **title** of each listed project.
 
 ## Featured Projects
 
-### [**NASA Fermi GRB Clustering**](https://github.com/tahumada/GBM-ML)
+### [**NASA Fermi GRB Clustering**](https://github.com/tahumada/GBM-ML) - _Paper In Progress_
 Developed ML pipelines for the **unsupervised clustering** of over 750k high-noise **gamma-ray bursts (GRBs)** to identify outlier astrophysical events detected by the Fermi Telescope. This is a sub-project under a wider multi-stage project created by my mentor, Dr. Niharika Sravan, to create an ML pipeline for NASA's radio team.
 <br>
 _PI: Dr. Niharika Sravan - Funding: NSF2307374_
@@ -70,7 +70,7 @@ _Conducted as part of Drexel’s Students Tackling Advanced Research (STAR) Scho
 </div>
 <br>
 
-### [**Real-Time, Ultra-Low Latency Classification of Fast Radio Bursts**](./frb/simple_model_accuracy.ipynb) - _Work in Progess_
+### [**Real-Time, Ultra-Low Latency Classification of Fast Radio Bursts**](./frb/simple_model_accuracy.ipynb)
 Designed a real-time sub-microsecond inference pipeline to detect and classify Fast Radio Bursts (FRBs) from live telescope data. The project integrates machine-learning models with low-level hardware acceleration for efficient and low-latency on-device signal processing.
 <br>
 _PI: Niharika Sravan, PhD - Funding: ASURS._
