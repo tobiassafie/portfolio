@@ -87,12 +87,12 @@ _Another project developed under Dr. Niharika Sravan that has seen many collabor
 <table>
   <tr>
     <td align="center">
-      <img src="assets/frb_roc_curve.png" width="400px" alt="ROC Curve – FRB vs RFI"><br>
-      <em>Historic ROC curve for FRB classifier showing strong discrimination (AUC = 0.967)</em>
+      <img src="assets/frb_probability" width="800px" alt="ROC Curve – FRB vs RFI"><br>
+      <em>Live probability graphs with probability convergence metrics</em>
     </td>
     <td align="center">
-      <img src="assets/fpga.png" width="400px" alt="FPGA Board"><br>
-      <em>Target FPGA platform for real-time deployment</em>
+      <img src="assets/spectogram.png" width="400px" alt="FPGA Board"><br>
+      <em>Dedispersed spectogram of an FRB</em>
     </td>
   </tr>
 </table>
