@@ -70,18 +70,18 @@ _Conducted as part of Drexel’s Students Tackling Advanced Research (STAR) Scho
 </div>
 <br>
 
-### [**Fast Radio Burst FPGA Classifier**](./frb/simple_model_accuracy.ipynb) - _Work in Progess_
-Designing a real-time inference pipeline to detect and classify Fast Radio Bursts (FRBs) from live telescope data. The project integrates machine-learning models with low-level hardware acceleration for efficient and low-latency on-device signal processing.
+### [**Real-Time, Ultra-Low Latency Classification of Fast Radio Bursts**](./frb/simple_model_accuracy.ipynb) - _Work in Progess_
+Designed a real-time sub-microsecond inference pipeline to detect and classify Fast Radio Bursts (FRBs) from live telescope data. The project integrates machine-learning models with low-level hardware acceleration for efficient and low-latency on-device signal processing.
 <br>
 _Another project developed under Dr. Niharika Sravan that has seen many collaborators and contributors._
 <br>
 **Tools:** Python, TensorFlow, Verilog, C++, Scikit-Learn, hls4ml, FPGA
 <br>
 **Highlights:**
-- Building an end-to-end pipeline for FRB detection and classification using CNN architectures
-- Converting trained Sk-Learn models to low-level representations for deployment on an FPGA
-- Implementing real-time signal ingestion and preprocessing for telescope data streams
-- Targeting efficient inference under strict parameter and memory constraints (<100k parameters)
+- Engineered an ML classifier pipeline with sub-microsecond inference for future radio astronomy implementation
+- Achieved 97.2% accuracy, correctly identifying radio bursts within the first 2% of their detection window
+- Designed novel methodology for low-latency Deep Learning signal processing on FPGA hardware permitting sub-microsecond inference
+- Maintained high accuracy while keeping models very compact (<8k parameters)
 
 <div align = "center">
 <table>
